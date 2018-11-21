@@ -1,0 +1,28 @@
+{
+  "name": "susanity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alyssa-Cooper/susanity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alyssa-Cooper/susanity/issues"
+  },
+  "homepage": "https://github.com/Alyssa-Cooper/susanity#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines":{
+    "node": "8.12.0",
+    "npm": "6.4.1"
+}
+
+}
